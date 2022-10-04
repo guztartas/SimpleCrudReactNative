@@ -6,4 +6,4 @@ Trabalho desenvolvido para faculdade.
 - Rode o comando `npm install`<br/>
 - Rode o comando `npm start`<br/>
 - Acesse pelo emulador do **Android Studio** clicando `a`<br/>
-- Acesse pelo navgeadir clicando `w`
+- Acesse pelo **navegador** clicando `w`
